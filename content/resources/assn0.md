@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Homework problems.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/5f8f1a6483b596bc0c79dd145557dd5b_assn0.pdf
+file: /media/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/5f8f1a6483b596bc0c79dd145557dd5b_assn0.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: assn0.pdf
 uid: 5f8f1a64-83b5-96bc-0c79-dd145557dd5b
