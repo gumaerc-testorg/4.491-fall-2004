@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a360f9d6-7924-da2e-81c9-0ef2c0f6c275
 resourcetype: Document
 title: gaudisaud.pdf
 uid: a055c547-0a91-6150-4fdd-f2194c418b9a

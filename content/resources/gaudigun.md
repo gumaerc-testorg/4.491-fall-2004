@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a360f9d6-7924-da2e-81c9-0ef2c0f6c275
 resourcetype: Document
 title: gaudigun.pdf
 uid: f83141e6-8ef1-64e6-af75-c10f91aec3e7
