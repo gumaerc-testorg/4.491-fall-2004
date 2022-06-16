@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/f83141e68ef164e6af75c10f91aec3e7_gaudigun.pdf
+file: /courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/f83141e68ef164e6af75c10f91aec3e7_gaudigun.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
