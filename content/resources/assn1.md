@@ -5,6 +5,7 @@ file: /courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1.pdf
 uid: d10c6ad8-4345-07ae-e507-8e7941ab6c54
 ---
 Homework assignment.
-

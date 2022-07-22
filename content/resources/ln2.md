@@ -6,6 +6,7 @@ file: /courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fal
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ln2.pdf
 uid: 2bad734e-27d4-caf4-4a77-073168015c53
 ---
 This handout contains a summary of the lecture. All lectures are by Simon Greenwold, and used with permission.
-
