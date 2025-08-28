@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment.
-file: /courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/6a9f97d9725a95d87a4bcf01488b870d_assn2.pdf
+file: /ol-ocw-studio-app/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/6a9f97d9725a95d87a4bcf01488b870d_assn2.pdf
 file_size: 647948
 file_type: application/pdf
 learning_resource_types:
